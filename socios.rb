@@ -4,7 +4,7 @@
 class Socios < Formula
   desc "development formula -Socios"
   homepage "https://github.com/SociOS-Linux/socios"
-  url "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/socios.rb"
+  url "https://github.com/SociOS-Linux/homebrew-socios/socios.rb"
   sha256 "b961c646165d69926cbcea897f0d8ed335aba6a99d45fed7667f41196a00ef3e"
   license "GPL-3.0"
 
