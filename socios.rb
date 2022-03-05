@@ -1,12 +1,12 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Socios < Formula
-  desc "development formula -Socios"
-  homepage "https://github.com/Bsivakumar29/socios"
-  url "https://github.com/Bsivakumar29/socios/archive/refs/tags/v1.2.3.tar.gz"
-  sha256 "e48c21a70b3c8fa2cf9e17786475272668c6d17b7c8e41b59f6d233c6be6e488"
-  license ""
+class socios < Formula
+  desc "development formula -socios"
+  homepage "https://github.com/Bsivakumar29/socios-setup"
+  url "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/socios.rb"
+  sha256 "b961c646165d69926cbcea897f0d8ed335aba6a99d45fed7667f41196a00ef3e"
+  license "GPL-3.0"
 
   def install
 	bin.install "socios"
