@@ -4,8 +4,8 @@
 class Socios < Formula
   desc "development formula -Socios"
   homepage "https://github.com/SociOS-Linux/socios"
-  url "https://github.com/SociOS-Linux/socios/archive/refs/tags/v1.2.4.alpha.tar.gz"
-  sha256 "a465f38992f66bfa4f855c2f834fe0e55d5a109d0b3123c50701c9c341962cf0"
+  url "https://github.com/SociOS-Linux/socios/archive/refs/tags/v1.3.0.tar.gz"
+  sha256 "9a979062bc81abef70ee71695075f1601bdf2db4420f56375b08df946bf1ffc6"
   license "GPL-3.0"
 
   def install
