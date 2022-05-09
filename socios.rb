@@ -11,7 +11,7 @@ class Socios < Formula
   # depends_on "cmake" => :build
 
   def install
-	bin.install "socios"
+        bin.install "socios"
 	prefix.install Dir["lib"]
   end
 end
