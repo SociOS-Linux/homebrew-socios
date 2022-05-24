@@ -4,8 +4,8 @@
 class Socios < Formula
   desc "development formula -Socios"
   homepage "https://github.com/SociOS-Linux/socios"
-  url "https://github.com/SociOS-Linux/socios/archive/refs/tags/v1.3.6.tar.gz"
-  sha256 "bd1a0143992839b88bd0205d919288ddb08f23c18ffe094dca5abe29b5d19d3f"
+  url "https://github.com/SociOS-Linux/socios/archive/refs/tags/v1.3.8.tar.gz"
+  sha256 "d193b473b7d787c089c82c00bd055cc5a5b9bec9d9d502d576e73b89d5337355"
   license "GPL-3.0"
 
   # depends_on "cmake" => :build
