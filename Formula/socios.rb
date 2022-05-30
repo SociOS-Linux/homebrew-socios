@@ -3,7 +3,7 @@
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Socios < Formula
   desc "development formula -Socios"
-  homepage "https://github.com/SociOS-Linux/socios"
+  homepage "https://github.com/SociOS-Linux/socios-installer"
   url "https://github.com/SociOS-Linux/socios/archive/refs/tags/v1.4.0.tar.gz"
   sha256 "2034fa849aad5d93e179e26f8b7d2bedc3f5c0a675a48b4ece9afcc5acad5b38"
   license "GPL-3.0"
