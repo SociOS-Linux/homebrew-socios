@@ -8,7 +8,6 @@ class SociosSetup < Formula
   sha256 "1a0a12acffc5411e6baee5521c2ccf216d120ab373015886cef2ba9ef143f238"
   license "GPL-3.0"
 
-
   def install
 	bin.install "socios-setup"
 	prefix.install Dir["lib"]
