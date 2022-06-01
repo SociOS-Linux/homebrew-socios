@@ -2,10 +2,10 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class SociosSetup < Formula
-  desc "development formula -SociosSetup"
+  desc "Development formula -SociosSetup"
   homepage "https://github.com/SociOS-Linux/socios-setup"
-  url "https://github.com/SociOS-Linux/socios-setup/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "2034fa849aad5d93e179e26f8b7d2bedc3f5c0a675a48b4ece9afcc5acad5b38"
+  url "https://github.com/SociOS-Linux/socios-setup/archive/refs/tags/v1.4.2.tar.gz"
+  sha256 "1a0a12acffc5411e6baee5521c2ccf216d120ab373015886cef2ba9ef143f238"
   license "GPL-3.0"
 
   # depends_on "cmake" => :build
