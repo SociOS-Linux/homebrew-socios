@@ -12,6 +12,6 @@ class SociosSetup < Formula
 
   def install
 	bin.install "socios"
-        prefix.install Dir["lib"]
+              prefix.install Dir["lib"]
      end
 end
