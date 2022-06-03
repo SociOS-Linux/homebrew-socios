@@ -8,8 +8,10 @@ class Socios < Formula
   sha256 "f883dba6f41de92ec9d4aeea8c3c421d879509ab2d6415ed2a5247bfe7d29d2c"
   license "GPL-3.0"
 
-def install
-              bin.install "socios"
-              prefix.install Dir["lib"]
-     end
+  # depends_on "cmake" => :build
+
+  def install
+          bin.install "socios"
+          prefix.install Dir["lib"]
+  end
 end
