@@ -5,7 +5,7 @@ class Socios < Formula
   desc "socios seup installer"
   homepage "https://github.com/SociOS-Linux/homebrew-socios"
   url "https://github.com/SociOS-Linux/socios/archive/refs/tags/v1.4.7.tar.gz"
-  sha256 "56d83d661519e3b5420887f784dd55100ae8c3e178dc8a1c8c2dc247ce3b785c"
+  sha256 "5cfd5654e77f9bf949819bef7814d72511eb2066d9971db3a0a60a94b06f51be"
   license "MIT"
 
   # depends_on "cmake" => :build
