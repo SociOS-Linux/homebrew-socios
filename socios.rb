@@ -6,7 +6,11 @@ class Socios < Formula
   homepage ""
   url "https://github.com/SociOS-Linux/socios/archive/refs/tags/v1.4.7.tar.gz"
   sha256 "5cfd5654e77f9bf949819bef7814d72511eb2066d9971db3a0a60a94b06f51be"
+<<<<<<< HEAD
   license "GPL-3.0"
+=======
+  license "MIT"
+>>>>>>> 5ff529efdb27d5a72660b2ca0ca6f184d53b02ef
 
   # depends_on "cmake" => :build
 
